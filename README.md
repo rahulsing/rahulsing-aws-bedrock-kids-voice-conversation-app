@@ -24,7 +24,8 @@ b. Run the pip install requirement
 ```
 pip install -r requirements.txt
 ```
-c. Run the streamlit App: 
+c. update the constant.py with your s3 bucket name. 
+d. Run the streamlit App: 
 ```
 streamlit run app.py
 ```
