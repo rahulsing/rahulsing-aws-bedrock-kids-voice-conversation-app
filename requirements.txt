@@ -1,0 +1,6 @@
+boto3
+amazon-transcribe
+sounddevice==0.4.6
+PyAudio
+streamlit
+audio-recorder-streamlit
